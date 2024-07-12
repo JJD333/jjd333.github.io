@@ -22,9 +22,9 @@ author: Jack Davey
 navbar-links:
   About Me: "aboutme"
   Research: 
-    - Publications: "Publications"
-    - Presentations: "Presentations"
-  Outreach: "Outreach"
+    - Publications: "publications"
+    - Presentations: "presentations"
+  Outreach: "outreach"
 
 ################
 # --- Logo --- #
