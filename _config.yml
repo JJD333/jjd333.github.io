@@ -21,7 +21,8 @@ author: Jack Davey
 
 navbar-links:
   About Me: "aboutme"
-  Research: 
+  Research output: 
+    - Overview: "overview"
     - Publications: "publications"
     - Presentations: "presentations"
   Outreach: "outreach"
