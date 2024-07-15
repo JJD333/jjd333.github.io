@@ -4,6 +4,10 @@ title: Publications
 subtitle: My published research
 ---
 
+Below you can find a full list of my research publications (organised by date)
+
+---
+
 [**The effect of spectroscopic binning on atmospheric retrievals**](https://arxiv.org/abs/2407.09296)
 
 _Submitted to Monthly Notices of the Royal Astronomical Society_
