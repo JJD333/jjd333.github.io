@@ -12,7 +12,7 @@ Below you can find a full list of my research publications (organised by date)
 
 _Submitted to Monthly Notices of the Royal Astronomical Society_
 
-**Authors:** <u>Jack J. Davey<u/>, Kai Hou Yip, Ahmed F. Al-Refaie and Ingo P. Waldmann
+**Authors:** <u>Jack J. Davey</u>, Kai Hou Yip, Ahmed F. Al-Refaie and Ingo P. Waldmann
 
 **Affiliation:** University College London
 
