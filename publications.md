@@ -8,6 +8,18 @@ Below you can find a full list of my research publications (organised by date)
 
 ---
 
+[**Investigating the Influence of Asymmetric Errors on Retrievals of Exoplanet Transmission Spectra**](https://arxiv.org/abs/2507.19223)
+
+_Submitted to Royal Astronomical Society Techniques and Instruments_
+
+**Authors:** <u>Jack J. Davey</u>, Kai Hou Yip, Quentin Changeat and Ingo P. Waldmann
+
+**Affiliation:** University College London, University of Groningen
+
+**Abstract:** In studies of exoplanet atmospheres using transmission spectroscopy, Bayesian retrievals are the most popular form of analysis. In these procedures it is common to adopt a Gaussian likelihood. However, this implicitly assumes that the upper and lower error bars on the spectral points are equal. With recent observations from the James Webb Space Telescope (JWST) offering higher quality of data, it is worth revisiting this assumption to understand the impact that an asymmetry between the error bars may have on retrieved parameters. In this study, we challenge the approximation by comparing retrievals using a symmetric, Gaussian likelihood, and an asymmetric, split normal likelihood. We find that the influence of this assumption is minimal at the scales of asymmetry observed in JWST observations of WASP-39 b (with a maximum asymmetry of 77%) but we show that it would become critical with greater levels of asymmetry (e.g. an average asymmetry of 80%). Furthermore, we stress the importance of the shape of the asymmetric distribution and the difficulty in fitting this distribution from three summary statistics (the median and an upper and lower bound on the transit depth). An asymmetric likelihood sampler will incorrectly predict parameters if the shape of the likelihood does not match that of the underlying noise distribution even when the levels of asymmetry are equal in both. Overall, we find that it is safe to use the Gaussian likelihood assumption for current datasets but it is worth considering the potential bias if greater asymmetries are observed.
+
+---
+
 [**The effect of spectroscopic binning on atmospheric retrievals**](https://academic.oup.com/mnras/article/536/3/2618/7922859#498928734)
 
 _Published in Monthly Notices of the Royal Astronomical Society_
