@@ -6,7 +6,7 @@ subtitle: academic and otherwise
 
 ### Academic
 
-Having obtained my MPhys degree from the University of Warwick in 2022, I am now working towards a PhD at University College London under the supervision of Prof. Ingo Waldmann. My research focusses on space-based data targetting exoplanets and their atmospheres. It is such an exciting field to be a part of as there are still so many open questions. New data is constantly challenging our assumptions of what we take to me common across the exoplanet population and we are witnessing evidence of unexpected phenomena. Central to this pursuit is an understanding of the strengths and limitations of our inference methods. With analysis of datasets from the James Webb Space Telescope my work seeks to reaffirm our confidence in our techniques by rigorously testing them in extreme cases of the data. 
+Having obtained my MPhys degree from the University of Warwick in 2022, I am now working towards a PhD at University College London under the supervision of Prof. Ingo Waldmann. My research focusses on space-based data targeting exoplanets and their atmospheres. It is such an exciting field to be a part of as there are still so many open questions. New data is constantly challenging our assumptions of what we take to be common across the exoplanet population and we are witnessing evidence of unexpected phenomena. Central to this pursuit is an understanding of the strengths and limitations of our inference methods. With analysis of datasets from the James Webb Space Telescope my work seeks to reaffirm our confidence in our techniques by rigorously testing them in extreme cases of the data. 
 
 ### Personal
 
