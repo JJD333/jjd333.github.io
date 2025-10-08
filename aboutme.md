@@ -11,5 +11,3 @@ Having obtained my MPhys degree from the University of Warwick in 2022, I am now
 ### Personal
 
 Outside of academia, much of my time is given to running. I am a member of the UCL running club as well as another local club in London. There are many similarities between running and research as it is a constant pursuit to improve, requires perseverance and determination, and demands focus. For me, running is an escape and I take great pride in seeing my race times improve season on season. My proudest running moment was achieving a marathon time of 2:46:48 in my first marathon earlier this year. 
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14383676625" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
